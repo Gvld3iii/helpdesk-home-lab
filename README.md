@@ -31,7 +31,16 @@ This project simulates a real-world help desk environment and documents common I
 - VirtualBox or local lab environment
 - Markdown
 - GitHub
+## Screenshots
 
+### Repository Overview
+![Repo Overview](screenshots/repo-overview.png)
+
+### Example Ticket Documentation
+![Ticket Example](screenshots/ticket-example.png)
+
+### New Hire Onboarding Checklist
+![Onboarding Checklist](screenshots/onboarding-checklist.png)
 ## Why I Built This
 I created this lab to strengthen my help desk and desktop support skills through hands-on practice and clear documentation. My goal is to build a strong foundation in troubleshooting, user support, and IT operations while growing toward cloud and systems support roles.
 =======
