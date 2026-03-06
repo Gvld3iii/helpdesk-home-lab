@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Help Desk Home Lab
 
 This project simulates a real-world help desk environment and documents common IT support workflows such as user onboarding, password resets, shared drive access troubleshooting, printer issues, and Outlook profile support.
@@ -33,3 +34,6 @@ This project simulates a real-world help desk environment and documents common I
 
 ## Why I Built This
 I created this lab to strengthen my help desk and desktop support skills through hands-on practice and clear documentation. My goal is to build a strong foundation in troubleshooting, user support, and IT operations while growing toward cloud and systems support roles.
+=======
+# helpdesk-home-lab
+>>>>>>> de8a05e7a03b664db89e378ec6e2e688da256733
