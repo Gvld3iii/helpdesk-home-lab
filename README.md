@@ -26,6 +26,7 @@ The goal of this lab is to practice structured troubleshooting, documentation, a
 - New hire onboarding processes
 - Asset inventory tracking
 - Technical documentation and knowledge base writing
+- Basic Python automation for help desk workflows
 
 ---
 
@@ -52,12 +53,12 @@ Each ticket includes:
 
 This lab follows a structured troubleshooting approach similar to real help desk workflows:
 
-1. Identify the problem
-2. Gather details from the user
-3. Isolate the root cause
-4. Apply the least disruptive solution
-5. Test and confirm resolution
-6. Document the outcome
+1. Identify the problem  
+2. Gather details from the user  
+3. Isolate the root cause  
+4. Apply the least disruptive solution  
+5. Test and confirm resolution  
+6. Document the outcome  
 
 ---
 
@@ -85,28 +86,44 @@ Includes:
 
 ---
 
-## Screenshots
+## Python Help Desk Ticket Logger
 
-### Repository Overview
-![Repo Overview](screenshots/repo-overview.png)
+This project also includes a small Python-based ticket logging tool that simulates how help desk tickets can be created and tracked.
 
-### Example Ticket Documentation
-![Ticket Example](screenshots/ticket-example.png)
+The script allows users to create support tickets from the command line and saves them into a structured CSV file.
 
-### New Hire Onboarding Checklist
-![Onboarding Checklist](screenshots/onboarding-checklist.png)
+### Features
 
----
+- Create help desk tickets
+- Track issue type, department, and priority
+- Store ticket records in a CSV file
+- Simulate real help desk ticket documentation
+
+### Run the Script
+
+From the project root directory:
+
+```bash
+python scripts/ticket_logger.py
 
 ## Why I Built This
 
-I created this project to strengthen my help desk and desktop support skills through hands-on troubleshooting simulations and documentation practice.
+I built this project to strengthen my IT Help Desk and desktop support skills through hands-on troubleshooting simulations and structured documentation.
 
-My goal is to build a strong foundation in IT support operations while continuing to expand into cloud infrastructure and systems administration.
+As I transition further into IT, I wanted to demonstrate practical knowledge of real support workflows such as ticket resolution, user onboarding, device management, and operational documentation. 
+
+This lab helps simulate the types of issues and processes commonly handled by IT support teams while allowing me to continuously improve my troubleshooting and system administration skills.
 
 ---
+## About me
 
+I’m actively building projects focused on cloud infrastructure, IT support operations, and AI-assisted systems. 
+
+My goal is to grow into cloud engineering and systems roles while building a strong foundation in technical support and infrastructure management.
+
+You can view more of my work here:
+
+GitHub: https://github.com/Gvld3iii
 ## Author
 
 Kharee Bellamy  
-GitHub: https://github.com/Gvld3iii
