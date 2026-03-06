@@ -1,36 +1,90 @@
-<<<<<<< HEAD
 # Help Desk Home Lab
 
-This project simulates a real-world help desk environment and documents common IT support workflows such as user onboarding, password resets, shared drive access troubleshooting, printer issues, and Outlook profile support.
+This project simulates a real-world IT Help Desk environment and documents common support workflows such as user onboarding, password resets, shared drive access troubleshooting, printer issues, and Outlook profile support.
 
-## Goals
-- Practice structured troubleshooting
-- Document support processes clearly
-- Simulate ticket-based IT support tasks
-- Build a portfolio project relevant to help desk and desktop support roles
+The goal of this lab is to practice structured troubleshooting, documentation, and ticket-based support processes commonly used by IT support teams.
+
+---
+
+## Project Objectives
+
+• Simulate real help desk ticket workflows  
+• Practice structured troubleshooting methods  
+• Document common IT support solutions  
+• Demonstrate operational thinking used in IT support environments  
+
+---
 
 ## Skills Demonstrated
-- Windows support
-- Active Directory concepts
-- User account support
-- Password reset workflow
+
+- IT Help Desk troubleshooting
+- Windows support fundamentals
+- User account management concepts
+- Password reset and account recovery workflows
+- Shared drive access troubleshooting
 - Printer troubleshooting
-- Shared drive access support
-- Documentation and knowledge base writing
-- Ticket resolution workflow
+- New hire onboarding processes
+- Asset inventory tracking
+- Technical documentation and knowledge base writing
 
-## Simulated Support Tasks
-1. Reset a user password and unlock account
-2. Resolve shared drive permission issue
-3. Troubleshoot printer connectivity
-4. Repair Outlook profile issue
-5. Prepare onboarding checklist for a new hire
+---
 
-## Tools Used
-- Windows
-- VirtualBox or local lab environment
-- Markdown
-- GitHub
+## Example Support Scenarios
+
+This lab includes documentation for common help desk tickets such as:
+
+- Password reset and account unlock
+- Shared drive access denied
+- Printer offline troubleshooting
+- Outlook profile repair
+
+Each ticket includes:
+
+• Issue description  
+• Symptoms observed  
+• Troubleshooting steps  
+• Resolution  
+• Root cause analysis  
+
+---
+
+## Troubleshooting Method Used
+
+This lab follows a structured troubleshooting approach similar to real help desk workflows:
+
+1. Identify the problem
+2. Gather details from the user
+3. Isolate the root cause
+4. Apply the least disruptive solution
+5. Test and confirm resolution
+6. Document the outcome
+
+---
+
+## Documentation Included
+
+### Support Tickets
+Located in the `tickets/` directory
+
+Examples include:
+
+- Password reset ticket
+- Shared drive access issue
+- Printer troubleshooting
+- Outlook profile repair
+
+### IT Process Documentation
+Located in the `docs/` directory
+
+Includes:
+
+- New hire onboarding checklist
+- Offboarding checklist
+- Troubleshooting playbook
+- Asset inventory template
+
+---
+
 ## Screenshots
 
 ### Repository Overview
@@ -41,8 +95,18 @@ This project simulates a real-world help desk environment and documents common I
 
 ### New Hire Onboarding Checklist
 ![Onboarding Checklist](screenshots/onboarding-checklist.png)
+
+---
+
 ## Why I Built This
-I created this lab to strengthen my help desk and desktop support skills through hands-on practice and clear documentation. My goal is to build a strong foundation in troubleshooting, user support, and IT operations while growing toward cloud and systems support roles.
-=======
-# helpdesk-home-lab
->>>>>>> de8a05e7a03b664db89e378ec6e2e688da256733
+
+I created this project to strengthen my help desk and desktop support skills through hands-on troubleshooting simulations and documentation practice.
+
+My goal is to build a strong foundation in IT support operations while continuing to expand into cloud infrastructure and systems administration.
+
+---
+
+## Author
+
+Kharee Bellamy  
+GitHub: https://github.com/Gvld3iii
