@@ -1,0 +1,4 @@
+asset_tag,device_type,brand,model,serial_number,assigned_user,status,location,notes
+A-1001,Laptop,Dell,Latitude 5420,SN123456,John Smith,Assigned,Charlotte,New hire device
+A-1002,Monitor,Dell,P2422H,SN654321,John Smith,Assigned,Charlotte,Paired with laptop
+A-1003,Laptop,HP,EliteBook 840,SN999111,Unassigned,Storage,Ready for deployment
